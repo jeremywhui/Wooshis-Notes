@@ -1,5 +1,4 @@
 Problems from: Nilsson. *Electric Circuits, 11th Edition*: 4.67, 69, 73, 74, 78.
-
-![[content/20231030_232825.jpg | 700]]
-![[content/20231030_232844.jpg | 700]]
-![[content/20231030_232852.jpg | 700]]
+![[Rec6-1.jpeg]]
+![[Rec6-2.jpeg]]
+![[Rec6-3.jpeg]]

@@ -1,1 +1,4 @@
-![[content/20231031_222432.jpg | 700]]![[20231031_222443.jpg | 700]]![[content/20231031_222452.jpg | 700]]![[content/20231031_222500.jpg | 700]]
+![[DSLec2-1.jpeg]]
+![[DSLec2-2.jpeg]]
+![[DSLec2-3.jpeg]]
+![[DSLec2-4.jpeg]]
