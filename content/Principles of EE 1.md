@@ -4,6 +4,8 @@ draft: false
 ---
 ## Lecture
 [[PEE1 Lecture 19]]
+
+[[PEE1 Lecture 23]]
 ## Recitation
 [[Recitation 7]]
 
