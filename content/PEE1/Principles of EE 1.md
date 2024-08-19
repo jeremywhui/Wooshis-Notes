@@ -13,6 +13,14 @@ draft: false
 
 [[PEE1 Lecture 5]]
 
+[[PEE1 Lecture 6]]
+
+[[PEE1 Lecture 7]]
+
+[[PEE1 Lecture 8]]
+
+[[PEE1 Lecture 9 (Midterm 1 Review)]]
+
 [[PEE1 Lecture 19]]
 
 [[PEE1 Lecture 23]]
