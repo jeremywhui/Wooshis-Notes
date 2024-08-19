@@ -9,6 +9,6 @@ draft: false
 
 [[PEE1 Lecture 23]]
 ## Recitation
-[[Recitation 7]]
+[[PEE1 Recitation 7]]
 
-[[Recitation 8]]
+[[PEE1 Recitation 8]]
