@@ -20,6 +20,7 @@ Grades:
 | 1   | 02/24 | 02/26 |
 | 2   | 03/31 | 04/02 |
 | 3   | 05/05 | ?     |
+
 HW is a tool for learning something, and testing you
 
 Most of the exam is on HW 1 - checking the bare minimum
@@ -55,16 +56,19 @@ We want to show that $f$ is not surjective, so there exists an $x \in \mathbb{R}
 For each $i \in \mathbb{N}, x_i = 9 - a_{ii}, x = \sum_{i = 1}^{\infty}10^{-i}x_i$
 
 Claim: $\forall y \in \mathbb{N}, x \neq f(y)$, so $f$ is not surjective.
+
 $x_y \neq f(y)$
 
-$$\begin{align}&f(1) = \mathbf{a_{11}}a_{12}a_{13}\ldots\\
-&f(2) = a_{21}\mathbf{a_{22}}a_{23}\ldots\\
-&\ldots\\
-&f(n)\\
-&\ldots\end{align}
+$$\begin{align}
+f(1) = \mathbf{a_{11}}a_{12}a_{13}\ldots\\
+f(2) = a_{21}\mathbf{a_{22}}a_{23}\ldots\\
+\ldots\\
+f(n) = a_{n1}a_{n2}a_{n3}\ldots\\
+\ldots
+\end{align}
 $$
-$$\begin{align}&.a_{11}a_{22}a_{33}\ldots\\
-&\pm1\pm1\pm1 \ldots\end{align}
+$$\begin{align}.a_{11}a_{22}a_{33}\ldots\\
+\pm1\pm1\pm1 \ldots\end{align}
 $$
 this specific number does not have a preimage
 
@@ -113,6 +117,8 @@ $$L_{MST} \subseteq \{0,1\}^\ast = \bigcup_{i \in \mathbb{N}}\{0,1\}^i$$
 - If you want the solution, we talk about a relation
 
 $$R_{MST} \subseteq \{0, 1\}^\ast \text{(input)} \times \{0, 1\}^\ast \text{(output)}$$
+
+
 $$\begin{align}(x, y) \in R_{MST} \iff &x \to (G_x, \alpha) \\ &y\to \text{Tree $T$ in $G_x$ whose weight is } \leq \alpha\end{align}$$
 - Strong if you talk about languages
 - Canonical way of encoding
