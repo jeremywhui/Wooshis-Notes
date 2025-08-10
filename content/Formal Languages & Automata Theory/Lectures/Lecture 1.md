@@ -70,8 +70,8 @@ f(n) = a_{n1}a_{n2}a_{n3}\ldots\\
 $$
 
 $$
-\begin{align}.a_{11}a_{22}a_{33}\ldots\\
-\pm1\pm1\pm1 \ldots\end{align}
+\begin{align*}.a_{11}a_{22}a_{33}\ldots\\
+\pm1\pm1\pm1 \ldots\end{align*}
 $$
 
 this specific number does not have a preimage
@@ -125,7 +125,7 @@ R_{MST} \subseteq \{0, 1\}^\ast \text{(input)} \times \{0, 1\}^\ast \text{(outpu
 $$
 
 $$
-\begin{align}(x, y) \in R_{MST} \iff &x \to (G_x, \alpha) \\ &y\to \text{Tree $T$ in $G_x$ whose weight is } \leq \alpha\end{align}
+\begin{align*}(x, y) \in R_{MST} \iff &x \to (G_x, \alpha) \\ &y\to \text{Tree $T$ in $G_x$ whose weight is } \leq \alpha\end{align*}
 $$
 
 - Strong if you talk about languages
