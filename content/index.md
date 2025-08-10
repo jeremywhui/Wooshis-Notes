@@ -11,6 +11,8 @@ Welcome to Wooshi's Class Notes!
 [[Digital Logic Design|14:332:231 Digital Logic Design]]
 ## CS
 [[Data Structures|01:198:112 Data Structures]]
+
+[[Formal Languages & Automata Theory|01:198:452 Formal Languages & Automata Theory]]
 ## Math
 
 ## Physics
