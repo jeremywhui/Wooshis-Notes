@@ -67,7 +67,7 @@ $$\begin{align}
 &\ldots
 \end{align}
 $$
-<br>
+<p></p>
 $$\begin{align}.a_{11}a_{22}a_{33}\ldots\\
 \pm1\pm1\pm1 \ldots\end{align}
 $$
@@ -118,7 +118,7 @@ $$L_{MST} \subseteq \{0,1\}^\ast = \bigcup_{i \in \mathbb{N}}\{0,1\}^i$$
 - If you want the solution, we talk about a relation
 
 $$R_{MST} \subseteq \{0, 1\}^\ast \text{(input)} \times \{0, 1\}^\ast \text{(output)}$$
-<br>
+<p></p>
 $$\begin{align}(x, y) \in R_{MST} \iff &x \to (G_x, \alpha) \\ &y\to \text{Tree $T$ in $G_x$ whose weight is } \leq \alpha\end{align}$$
 - Strong if you talk about languages
 - Canonical way of encoding
