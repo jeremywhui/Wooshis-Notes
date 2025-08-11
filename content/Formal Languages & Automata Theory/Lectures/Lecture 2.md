@@ -55,6 +55,7 @@ $\in, \forall, \exists, =, \neq, >, <$
 | $\in$        | 1            |
 | 2            | 24           |
 | $\mathbb{N}$ | 101          |
+
 $2 \in \mathbb{N}: 24, 1, 101 = 2^{24} \cdot 3^1 \cdot 5^{101}$ - unique mapping
 - Capture a proposition with a number
 - Proof using 1 number
